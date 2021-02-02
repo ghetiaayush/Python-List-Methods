@@ -1,6 +1,6 @@
 # Python-List-Methods
+- If you want to study the methods yourself, have a look at the following table :-
 
-Method	                  Description
 1) lst.append(x)	        Appends element x to the list lst.
 2) lst.clear()	          Removes all elements from the list lst–which becomes empty.
 3) lst.copy()	            Returns a copy of the list lst. Copies only the list, not the elements in the list (shallow copy).
